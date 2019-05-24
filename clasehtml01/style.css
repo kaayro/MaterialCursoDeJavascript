@@ -1,0 +1,16 @@
+body{
+    background-color:#333;
+    color:rgb(256,256,256);
+    
+}
+
+
+
+h1{
+color: darkblue;
+
+}
+
+h1 span{
+    background-color:yellow 
+}
